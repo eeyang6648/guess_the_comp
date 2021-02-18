@@ -69,9 +69,9 @@ def start():
 
 start()
 start=("""
-=======================
-===guessing the comp===
-=======================
+$$$$$$$$$$$$$$$$$$$$$$$
+$$$guessing the comp$$$
+$$$$$$$$$$$$$$$$$$$$$$$
 """)
 print(start)
 time.sleep(5)
